@@ -1,3 +1,13 @@
+---
+layout: default
+---
+
+## Software System Analysis and Design
+{:.no_toc}
+
+* 目录
+{:toc}
+
 # 作业目录
 ## [第1次作业 软件的本质与软件工程科学]()
 ## [第2次作业 软件项目与知识团队管理]()
