@@ -1,7 +1,5 @@
 [作业要求](https://sysu-swsad.github.io/swad-guide/02-prject-team#3作业)
 
-[提交页面](https://shimo.im/sheets/uBJjssYsbnAbcYaB/QBaT7)
-
 ## 1、简答题
 - 用简短的语言给出对分析、设计的理解。
   - 分析： 根据客户的要求，清楚了解客户需求中的产品功能、特性、性能、界面和具体规格等，分析确定软件产品所能达到的目标。-- Do the right thing.
