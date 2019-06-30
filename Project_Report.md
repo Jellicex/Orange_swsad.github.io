@@ -11,7 +11,7 @@
   - 文档管理和会议组织
 - 贡献 
   - github contributor 中的记录如下：
-  - [截图](record.PNG)
+  - ![截图](record.PNG)
 
 # PSP2.1 统计表
 |PSP2.1|Personal Software Process Stages|Time(%) Senior Student|
